@@ -1,0 +1,18 @@
+ {
+    "users": [{
+      "id": 1,
+      "name": "Admin",
+      "money": 9500
+    }],
+    "products": [{
+      "id": 1,
+      "name": "Table",
+      "price": 500,
+      "amount": 1
+    }],
+    "orders": [{
+      "id": 1,
+      "productId": 1,
+      "userId": 1
+    }]
+  }
